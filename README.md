@@ -1,1 +1,3 @@
 # youtubemusicplayer-min
+## Once the firefox window appears select a youtube playlist you would like to use...
+### Then leave the script and firefox tab running in the background, you can now use "CTRL + LEFT" to go back in the playlist, "CTRL + RIGHT" to goto the next song, "CTRL + END" to pause and "CTRL + DEL" to mute.
